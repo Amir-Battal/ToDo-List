@@ -94,7 +94,7 @@ $ npm run package-linux
 ```
 
 You can download it for Mac directly through the link:
-<a href="https://drive.google.com/file/d/1o-6SO1oQ7bzdDAwfR71sotWMRPLMRdYN/view?usp=sharing">Link</a>
+<a href="https://drive.google.com/file/d/1_sGbBEfk9v62E8h3FntD9CoKnZ1DV4C-/view?usp=sharing">Link</a>
 
 
 ## Credits
