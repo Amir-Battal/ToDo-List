@@ -149,7 +149,7 @@ function initAddWindow(){
 
     addWindow.loadFile("./views/normalTask.html");
 
-    addWindow.on("closed", () => {
+    addWindow.on("closed", (e) => {
         e.preventDefault();
         addWindow = null;
     });
